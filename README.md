@@ -1,2 +1,2 @@
 # cs3240-labdemo
-Lab 5 Prelab
+Lab 5 InLab
